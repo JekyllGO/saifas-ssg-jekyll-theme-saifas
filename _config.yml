@@ -1,12 +1,12 @@
-title: Jekyll theme boilerplate
+title: Jekyll theme SAIFAS
 author:
   name: SAIFAS
 copyright: © SAIFAS
-version: 0.1.0
+version: 1.0.0
 lang: en_US
 author: SAIFAS
 email: jekyll@saifas.info
-about: Jekyll theme boilerplate
+about: Jekyll theme SAIFAS
 
 gems:
 
@@ -15,28 +15,3 @@ sass:
 
 assets_root_path: /assets/
 assets_styles_path: /assets/sass/styles.css
-
-layout: 
-  header:
-    logo:
-      path: 
-    links:
-      -
-        title: Home
-        url: /
-  footer:
-    contact_us: true
-    form_url:
-    socials:
-      - 
-        name: github
-        url: /
-      -
-        name: facebook
-        url: /
-      -
-        name: linkedin
-        url: /
-      -
-        name: twitter
-        url: /
