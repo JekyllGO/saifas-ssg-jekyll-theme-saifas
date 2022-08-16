@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["SAIFAS"]
   spec.email         = ["jekyll@saifas.info"]
 
-  spec.summary       = "Jekyll theme boilerplate"
+  spec.summary       = "Jekyll theme 'SAIFAS'"
   spec.homepage      = "https://github.com/JekyllGO/saifas-ssg-jekyll-theme-saifas"
   spec.license       = "MIT"
 
