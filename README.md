@@ -1,4 +1,4 @@
-# Jekyll theme `SAIFAS`
+# SAIFAS Jekyll theme `SAIFAS`
 
 #jekyll-theme
 
