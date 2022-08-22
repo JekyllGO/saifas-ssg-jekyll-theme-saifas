@@ -4,6 +4,6 @@
 
 [Documentation](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-saifas-doc)
 
-(# SAIFAS Jekyll Theme `SAIFAS` documentation
+
 
 
